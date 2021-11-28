@@ -24,3 +24,18 @@ Task 2 - K Means
 - Analyse the results/clusters formed(in every case above) based on the following parameters:
 - How good are the clusters? Use inter and intra class similarities to measure the goodness of clusters
 - Find any hidden patterns if any
+
+Task 3 - Hierarchical Clustering
+Cluster the data using Agglomerative method of your choice
+Plot dendrogram
+Analyse the cluster formed based on the following parameters:
+How good are the clusters? Use inter and intra class similarities to measure the goodness of clusters
+Find any hidden patterns if any
+
+Task 4 - DBSCAN
+
+Use DBScan to cluster the data
+DBScan requires 2 parameters - epsilon and minPts. Show all the experiments performed to arrive at the final epsilons and minPts
+Analyse the cluster formed
+How good are the clusters? Use inter and intra class similarities to measure the goodness of clusters
+Find any hidden patterns if any
